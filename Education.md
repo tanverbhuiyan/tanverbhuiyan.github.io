@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Education
 ---
-
 <h1><code style="color: orangered">Education</code></h1>
 
 ## 🎓 Education  

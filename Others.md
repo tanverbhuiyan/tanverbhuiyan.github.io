@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Others
 ---
 
 <h1><code style="color: orangered">Others</code></h1>
