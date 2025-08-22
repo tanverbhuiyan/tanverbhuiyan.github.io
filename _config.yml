@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Md. Sawrab
+url: "https://md-sawrab.github.io"
+# baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,9 +16,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Research"
+   link: "index"
+ - name: "Education"
+   link: "education"
+ - name: "Experience"
+   link: "experience"
+ - name: "Others"
+   link: "others"

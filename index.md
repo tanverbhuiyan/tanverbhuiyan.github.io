@@ -2,44 +2,18 @@
 layout: default
 ---
 
-## About Me
+<img class="profile-picture" src="Profile_Picture.jpg" alt="Profile picture">
 
-<img class="profile-picture" src="sherlock.jpg">
+I am an undergraduate student in **Statistics** at Comilla University, passionate about **data science, AI, and machine learning**. Alongside my studies, I actively engage in community building, research training, and tech advocacy, working to create opportunities for students to explore data-driven technologies.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I currently serve as a **Microsoft Learn Student Ambassador (Beta)**, **General Secretary of the Comilla University IT Society**, and **General Secretary of the National Student Data Corps (NSDC) CoU Chapter**. I also lead the **Data Science Community Bangladesh**, a growing community of 17,000+ members. Through these roles, I organize workshops, datathons, coding challenges, and research training programs to help students and researchers develop technical and analytical skills.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My interests lie in **data analysis, machine learning, AI ethics, and quantum computing**. I enjoy working with tools like Python, SQL, Tableau, and Power BI, and I’m particularly excited about bridging the gap between statistics and real-world applications of AI. I am also working on writing books to make **statistics and SQL** more accessible to students.
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+Feel free to connect with me via [email](mailto:mdsawrab02@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/md-sawrab/).
 
 ---
 
-Here is a blockquote
+## Updates
 
-> To a great mind, nothing is little
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
