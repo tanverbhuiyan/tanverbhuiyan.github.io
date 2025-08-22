@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 <img class="profile-picture" src="Profile_Picture.jpg" alt="Profile picture">
