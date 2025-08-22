@@ -1,23 +1,12 @@
 ---
 layout: default
 title: Experience
+permalink: /experience/
 ---
 
-<h1><code style="color: orangered">Experience</code></h1>
+# Experience
 
-## 💼 Experience  
-- **Microsoft Learn Student Ambassador (Beta)**  
-  - First from Comilla University to achieve this role.  
-  - Conducted sessions on Python, Power BI, and data science fundamentals.  
+- Internship at XYZ Company, 2022  
+- Research Assistant at Comilla University, 2021  
+- Any other relevant experiences
 
-- **General Secretary, Comilla University IT Society**  
-  - Organized IT Fest, hackathons, coding competitions, and workshops.  
-
-- **General Secretary, National Student Data Corps (NSDC), CoU Chapter**  
-  - Led data-driven workshops and collaborative events.  
-
-- **Founder, Data Science Community Bangladesh (17k+ Members)**  
-  - Building one of the largest data science communities in Bangladesh.  
-
-- **Organizer & Facilitator**  
-  - Hosted multiple sessions and workshops (Python for Beginners, SQL, Data Engineering, Higher Studies Abroad).  

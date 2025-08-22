@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Education
+permalink: /education/
 ---
-<h1><code style="color: orangered">Education</code></h1>
 
-## 🎓 Education  
-- **B.Sc. in Statistics**  
-  Comilla University (2020 – Present)  
-  - Focus: Data Science, Machine Learning, and AI  
-  - Actively involved in research, community building, and workshops.  
+# Education
+
+B.Sc. in Computer Science, Comilla University  
+2019 – 2023
+
+Other courses, certifications, etc.

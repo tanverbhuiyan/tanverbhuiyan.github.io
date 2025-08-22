@@ -16,11 +16,12 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Research"
-   link: "/"
- - name: "Education"
-   link: "/education/"
- - name: "Experience"
-   link: "/experience/"
- - name: "Others"
-   link: "/others/"
+  - name: "Research"
+    link: "/"
+  - name: "Education"
+    link: "/education/"
+  - name: "Experience"
+    link: "/experience/"
+  - name: "Others"
+    link: "/others/"
+
