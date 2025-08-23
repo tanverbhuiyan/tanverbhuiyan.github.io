@@ -1,9 +1,8 @@
 ---
 layout: default
-title: home
+title: Home
+permalink: /home/
 ---
-
-<img class="profile-picture" src="Profile_Picture.jpg" alt="Profile picture">
 
 I am an undergraduate student in **Statistics** at Comilla University, passionate about **data science, AI, and machine learning**. Alongside my studies, I actively engage in community building, research training, and tech advocacy, working to create opportunities for students to explore data-driven technologies.
 
@@ -16,5 +15,3 @@ Feel free to connect with me via [email](mailto:mdsawrab02@gmail.com) or on [Lin
 ---
 
 ## Updates
-
-

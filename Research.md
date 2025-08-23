@@ -1,6 +1,7 @@
 ---
-title: Researcher
 layout: default
+title: Research
+permalink: /research/
 ---
 
 # Researcher
