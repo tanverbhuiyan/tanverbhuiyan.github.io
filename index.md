@@ -3,8 +3,6 @@ layout: default
 title: home
 ---
 
-<img class="profile-picture" src="Profile_Picture.jpg" alt="Profile picture">
-
 I am an undergraduate student in **Statistics** at Comilla University, passionate about **data science, AI, and machine learning**. Alongside my studies, I actively engage in community building, research training, and tech advocacy, working to create opportunities for students to explore data-driven technologies.
 
 I currently serve as a **Microsoft Learn Student Ambassador (Beta)**, **General Secretary of the Comilla University IT Society**, and **General Secretary of the National Student Data Corps (NSDC) CoU Chapter**. I also lead the **Data Science Community Bangladesh**, a growing community of 17,000+ members. Through these roles, I organize workshops, datathons, coding challenges, and research training programs to help students and researchers develop technical and analytical skills.

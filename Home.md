@@ -14,4 +14,13 @@ Feel free to connect with me via [email](mailto:mdsawrab02@gmail.com) or on [Lin
 
 ---
 
-## Updates
+## 📰 News and Updates
+
+---
+
+- **July 5, 2025**: Two papers (LLM Evaluation and Agents) are submitted to EMNLP Industry Track (with Cohere Labs and CIOL)!  
+- **July 3, 2025**: Two papers on Generative AI for Health are accepted to [IJCAI GENAI4HEALTH](https://sites.google.com/view/genai4healthinfo/home?authuser=0) workshop!  
+- **July 1, 2025**: One paper on Generative AI for Health is accepted to [IEEE BHI 2025](https://bhi.embs.org/2025/) Abstracts!  
+- **June 19, 2025**: Three papers on LLM Evaluation, Application and AI Agents are accepted to **CSCW 2025** Posters!  
+- **June 5, 2025**: I reached the milestone of **100 citations on [Google Scholar](https://scholar.google.com/citations?user=X3gRvogAAAAJ)** (before undergrad thesis defense!)!!  
+- **June 8, 2025**: Joined [Pi School of AI](https://picampus-school.com/programme/school-of-artificial-intelligence/) as a Fellow! Wo

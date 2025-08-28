@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Experience
-permalink: /experience/
+title: Blog
+permalink: /blog/
 ---
 
 # Experience
