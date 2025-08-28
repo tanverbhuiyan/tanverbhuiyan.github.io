@@ -4,7 +4,6 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="blog, accent, {{ site.author }}, {{ site.title }}, jekyll">
   <meta name="author" content="{{ site.author }}">
 
@@ -44,8 +43,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      flex-wrap: wrap;
-      padding: 10px 0;
+      padding: 15px 0;
     }
 
     #ins-logo {
@@ -108,40 +106,6 @@
     .navbar-ul a.active::after {
       width: 100%;
     }
-
-    /* Hamburger Menu */
-    .hamburger {
-      display: none;
-      flex-direction: column;
-      cursor: pointer;
-      gap: 4px;
-    }
-
-    .hamburger div {
-      width: 25px;
-      height: 3px;
-      background-color: black;
-    }
-
-    @media (max-width: 768px) {
-      .navbar-ul {
-        flex-direction: column;
-        width: 100%;
-        display: none; /* hide menu initially */
-      }
-
-      .navbar-ul.show {
-        display: flex;
-      }
-
-      .hamburger {
-        display: flex;
-      }
-
-      .author-info {
-        margin-bottom: 10px;
-      }
-    }
   </style>
 </head>
 
@@ -159,13 +123,7 @@
         </div>
       </div>
 
-      <div class="hamburger" onclick="toggleMenu()">
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
-
-      <ul id="navlist" class="navbar-ul">
+      <ul class="navbar-ul">
         {% for x in site.nav %}
           <li>
             {% if x.name == "Resume" %}
@@ -208,13 +166,6 @@
       ga('send', 'pageview');
     </script>
   {% endif %}
-
-  <script>
-    function toggleMenu() {
-      const nav = document.getElementById('navlist');
-      nav.classList.toggle('show');
-    }
-  </script>
 </body>
 <footer></footer>
 </html>
