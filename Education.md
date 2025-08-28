@@ -4,22 +4,22 @@ title: Education
 permalink: /education/
 ---
 
-# 📚 Formal Education  
+## 📚 Formal Education  
 
 - **Bachelor of Science** | **March 2022 – Present**
   **Department of Statistics**  
   *Comilla University, Bangladesh*  
 
   - **Relevant Courses to AI/ML & Data Science:**  
-    Data     
+    Linear Algebra, Regression Analysis, Statistical Inference, Calculus     
 
 - **Higher Secondary Certificate (HSC)** | **2017 – 2019**  
   Science Group  
-  *xyz*    
+  *Chhengarchor Govt College*    
 
 ---
 
-# ⚙️ Training Programs & Internships  
+## ⚙️ Training Programs 
 
 - **Aspire Leaders Program 2023** – *Aspire Institute, Harvard University*  
   ▪ Training on leadership, strategic thinking, and social impact.  
@@ -30,7 +30,7 @@ permalink: /education/
 
 ---
 
-# 🧾 Online Courses & Certifications  
+## 🧾 Online Courses & Certifications  
 
 - **Coursera – DeepLearning.ai**  
 
