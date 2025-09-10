@@ -22,8 +22,8 @@ nav:
     link: "/research/"
   - name: "Education"
     link: "/education/"
-  - name: "Blog"
-    link: "/blog/"
+  - name: "Experience"
+    link: "/experience/"
   - name: "Others"
     link: "/others/"
 

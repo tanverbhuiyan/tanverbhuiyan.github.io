@@ -4,21 +4,52 @@ title: Others
 permalink: /others/
 ---
 
-### Community Leadership
-Leading and shaping tech communities is something I genuinely enjoy. As a **Microsoft Learn Student Ambassador (Beta)**, I mentor students and spark curiosity. Serving as **General Secretary** for both the **Comilla University IT Society** and **NSDC CoU Chapter**, I organize workshops, hackathons, and skill-building events. At **Data Science Community Bangladesh** (17,000+ members), I’ve led engaging **workshops, datathons, coding challenges, and research training sessions** that bring students together to learn, innovate, and collaborate.
+### ✍️ Blog / Writing  
+---
 
-### Current Initiatives
-I am passionate about making learning approachable and practical. Currently, I’m writing books to simplify **statistics** and **SQL** for students. Alongside, I explore AI/ML mini-projects, interactive data visualizations, and any idea that is both challenging and fun to experiment with.
+- [Predictive Modeling in Public Health](https://medium.com/@yourusername/predictive-modeling-public-health) – Medium  
+- [Introduction to Machine Learning for Beginners](https://medium.com/@yourusername/ml-for-beginners) – Medium  
+- [AI Applications in Financial Analytics](https://medium.com/@yourusername/ai-fintech) – Medium  
+- [Getting Started with Python for Data Science](https://medium.com/@yourusername/python-data-science) – Medium  
 
-### Technical Interests & Tools
-I enjoy blending curiosity with technology. My interests include **AI Ethics**, **Quantum Computing**, **Data Visualization**, and **Cloud Computing**. I am proficient with **Python, SQL, Tableau, Power BI, Git, and Jupyter Notebooks**, and I continuously seek opportunities to learn new tools and techniques.
+*Feel free to check out my [Medium profile](https://medium.com/@yourusername) for all posts.* 
 
-### Side Projects & Contributions
-I actively share my work on GitHub—small projects, experiments, and open-source contributions. Blogging allows me to reflect and share insights on **data science, productivity, and personal learning journeys**. I enjoy creating mini-projects that push my skills and creativity.
 
-### Awards & Recognition
-My work has been recognized for community engagement and research contributions. I have participated in and won local hackathons and datathons, and my efforts have been highlighted in student-led tech newsletters and community spotlights.
+### 🏆 Achievements  
+---
 
-### Personal Insights
-Beyond technology, I value campus life and collaborative experiences with peers. I enjoy exploring new ideas, experimenting with small projects, and mentoring others. For me, learning is a blend of curiosity, creativity, and real-world application, and I strive to bring that mindset to everything I do.
+- 1st Place – **National Datathon 2024** (Sales Forecasting Challenge)  
+- Best Paper Award – **Student Research Conference 2023**  
+- Dean's Merit List – **Comilla University, 2022**  
+- Kaggle Competitions Mastery Badge, 2023  
+
+
+### 🤝 Community & Leadership  
+---
+
+- Organizer – **CU IT Fest Datathon 2024**  
+- Mentor – **Undergraduate Research Teams**, Statistics Department, Comilla University  
+- Volunteer – **Local STEM Workshops** for high school students  
+- Active contributor to **open-source ML and data analysis tools**  
+
+## 🗣️ Talks and Training Workshops Taken  
+---
+
+- **Introduction to Machine Learning for Beginners**, Jan 15, 2025, Webinar  
+- **AI in Public Health: Challenges & Opportunities**, Mar 10, 2024 , Workshop  
+- **Deep Learning for Finance: Risk Modeling**, Jun 20, 2024 , Guest Talk  
+- **Data Science and Python for Engineers**, Sep 5, 2023 , Workshop  
+- **Building Predictive Models with ML**,  Jul 12, 2023 , Workshop  
+- **Generative AI in Real-World Applications**, Nov 8, 2023 , Guest Lecture  
+- **Graph Neural Networks: Concepts & Applications** , Feb 18, 2024 , Talk  
+- **Introduction to R and Statistical Analysis** , Oct 22, 2023 , Workshop  
+
+*Feel free to email me at [md.sawrab02@gmail.com](mailto:your.email@example.com) if you are interested in having me as a guest for a workshop, webinar, or talk. I’m open to sharing my knowledge, ideas, and discussing my research.*  
+
+
+## 📂 Credits and Website Resources  
+---
+
+
+- Base template by **Ankit Sultana**   
 
