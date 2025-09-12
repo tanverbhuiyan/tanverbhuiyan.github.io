@@ -10,30 +10,26 @@ permalink: /experience/
 
 ### 🧪 Research Experience  
 **Research Assistant (RA)** – Intelligence Academy  
-*Jan 2024 – Present*  
-- Working on **trustworthy machine learning** and **human-in-the-loop AI systems**.  
-- Conducting research on **explainable AI** and **sampling strategies** for reliable ML evaluation.  
-- Collaborating on **public health analytics projects** focusing on disease forecasting and intervention modeling.  
+*Jun 2025 – Present*  
+- Working on **trustworthy machine learning** and **human-in-the-loop AI systems**.   
 
 
 ### 👩‍🏫 Teaching Experience  
 ---
 
-**Teaching Assistant (TA)** – Akaademy  
-*Aug 2023 – Dec 2023*  
-- Assisted in teaching **introductory statistics and data analysis** courses.  
-- Conducted **lab sessions** on Python, R, and statistical software (SPSS, Excel).  
-- Mentored students on assignments and provided **office hours** for problem-solving.  
+**Teaching Assistant (TA)** – Akaademy - Jan 2024 – Sept 2025
+
+Served as a **Teaching Assistant** at Akaademy, an edtech platform for Data Science, Data Analysis, Business Intelligence, and Machine Learning.  
+
+- Assisted in **module creation** and **assignment design** to support project-based learning.  
+- Reviewed and graded student assignments, providing constructive feedback.  
+- Conducted **problem-solving sessions** and supported students in resolving queries to enhance their learning experience.  
+
 
 
 
 ### 🏢 Industry Experience  
 ---
-
-**Data Science Intern** – XYZ Company *(or Kaggle / Freelance Projects)*  
-*Jun 2023 – Aug 2023*  
-- Developed **predictive models** for sales forecasting and customer segmentation.  
-- Built **ETL pipelines** to preprocess and clean large-scale datasets.  
-- Worked on **dashboards and reporting** for business intelligence using Power BI / Tableau.  
+  
  
 
