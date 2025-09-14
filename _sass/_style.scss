@@ -4,163 +4,174 @@
    Basic
 ------------------------------ */
 html {
-    height: auto;       /* scroll support er jonno */
-    min-height: 100%;
-    margin: 0;
-    padding: 0;
+  height: auto;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scroll */
 }
 
 body {
-    margin: 0;
-    font-family: "Comfortaa";
-    font-size: 18px;        /* Base font size */
-    height: auto;           /* scrollable */
-    min-height: 100%;
-    padding-bottom: 50px;   /* niche extra scroll space */
-
-    /* Responsive font size */
-    @media (max-width: 800px) {
-        font-size: 17px;
-    }
-    @media (max-width: 650px) {
-        font-size: 16px;
-    }
-    @media (max-width: 500px) {
-        font-size: 15px;
-    }
+  margin: 0;
+  font-family: "Comfortaa", sans-serif;
+  font-size: clamp(15px, 2vw, 18px); /* Responsive font size */
+  height: auto;
+  min-height: 100%;
+  padding-bottom: 50px;
 }
 
 a {
-    text-decoration: none;
-    color: $accent;
-}
+  text-decoration: none;
+  color: $accent;
 
-a:hover {
+  &:hover {
     text-decoration: underline;
+  }
 }
 
 hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 /* ------------------------------
    Navbar
 ------------------------------ */
 #author-name {
-    font-size: 60px;
-    color: #272727;
-    display: inline-block;
+  font-size: 60px;
+  color: #272727;
+  display: inline-block;
 }
 
 .navbar {
-    padding: 80px 0 80px 0;
+  padding: 80px 0;
+  text-align: center;
 }
 
 .navbar-ul {
-    display: inline-block;
-    margin: 0;
-    padding: 5px 0 5px 0;
-    margin-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 0;
+  padding: 5px 0;
 }
 
 .nav-list {
-    list-style-type: none;
-    margin: 0 5px 0 10px;
+  list-style-type: none;
+  margin: 0;
 }
 
 .alignable {
-    display: inline-block;
+  display: inline-block;
 }
 
 .pull-left {
-    @extend .alignable;
-    float: left;
+  @extend .alignable;
+  float: left;
 }
 
 .pull-right {
-    @extend .alignable;
-    float: right;
+  @extend .alignable;
+  float: right;
 }
 
 /* ------------------------------
-   Divs / Wrapper
+   Container & Wrapper
 ------------------------------ */
 .container {
-    max-width: $max-width;
-    margin: auto;
+  max-width: $max-width;
+  margin: auto;
+  padding: 0 10px; /* Add side padding for small screens */
 }
 
 .wrapper {
-    min-height: 100%;       /* flexible wrapper height */
-    position: relative;
-    padding-bottom: 50px;   /* extra space for scroll */
-}
+  min-height: 100%;
+  position: relative;
+  padding-bottom: 50px;
 
-/* Clearfix for floated elements */
-.wrapper::after {
+  &::after {
     content: "";
     display: block;
     clear: both;
+  }
 }
 
 /* ------------------------------
-   Institute Image
+   Images
 ------------------------------ */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 #ins-logo {
-    margin: auto;
-    display: block;
-    max-height: 100px;
-    text-align: center;
+  margin: auto;
+  display: block;
+  max-height: 100px;
+  text-align: center;
 }
 
 /* ------------------------------
-   Media Queries (Responsive)
+   Responsive Design
 ------------------------------ */
+
+/* Medium screens */
 @media (max-width: 800px) {
-    .container {
-        max-width: $med-width;
-        transition: 0.3s ease all;
-    }
+  .container {
+    max-width: $med-width;
+    transition: 0.3s ease all;
+  }
 }
 
+/* Tablet screens */
 @media (max-width: 650px) {
-    .container {
-        max-width: 83%;
-    }
-    .navbar-ul {
-        margin-top: 5px;
-    }
+  .container {
+    max-width: 85%;
+  }
+
+  #author-name {
+    font-size: 50px;
+  }
+
+  .navbar-ul {
+    gap: 15px;
+  }
 }
 
+/* Mobile screens */
 @media (max-width: 500px) {
-    .navbar {
-        text-align: center;
-        padding: 50px 0px 0px 0px;
-    }
-    #author-name {
-        width: 100%;
-        float: none;
-    }
-    #navlist {
-        padding: 10px 0 10px 0;
-        margin: 0;
-        display: block;
-        float: none;
-        text-align: center;
-        width: 100%;
-    }
-    #navlist li.alignable {
-        display: inline-block;
-    }
-    #navlist li.pull-left {
-        float: none;
-    }
-    #navlist li.nav-list {
-        margin: 0;
-    }
+  .navbar {
+    padding: 40px 0 20px 0;
+  }
+
+  #author-name {
+    width: 100%;
+    font-size: 40px;
+    float: none;
+  }
+
+  .navbar-ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .nav-list {
+    margin: 5px 0;
+  }
+}
+
+/* Very small screens */
+@media (max-width: 400px) {
+  #author-name {
+    font-size: 32px;
+  }
+  .navbar {
+    padding: 20px 0;
+  }
 }
 
 @import "typography";
