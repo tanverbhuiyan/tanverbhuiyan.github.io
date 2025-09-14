@@ -13,7 +13,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Comfortaa";
   font-size: clamp(15px, 2vw, 18px); /* Responsive font size */
   height: auto;
   min-height: 100%;
@@ -84,7 +84,7 @@ hr {
 .container {
   max-width: $max-width;
   margin: auto;
-  padding: 0 10px; /* Add side padding for small screens */
+  padding: 0 10px; /* Side padding for small screens */
 }
 
 .wrapper {
@@ -106,6 +106,28 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+  object-fit: cover;
+  border-radius: 8px; /* Slightly rounded corners globally */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.profile-picture {
+  width: 250px !important;      /* Desktop-এ বড় square */
+  height: 250px !important;     /* Desktop-এ square */
+  max-width: 100%;               /* container exceed করবে না */
+  display: block;
+  margin: 0 auto 20px auto;
+  border-radius: 0 !important;  /* square shape */
+  object-fit: cover;            /* aspect ratio ঠিক রেখে crop */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 500px) {
+  .profile-picture {
+    width: 180px !important;    /* mobile-friendly size */
+    height: 180px !important;
+  }
 }
 
 #ins-logo {
@@ -113,6 +135,8 @@ img {
   display: block;
   max-height: 100px;
   text-align: center;
+  border-radius: 0; /* ✅ Square by default */
+  object-fit: contain;
 }
 
 /* ------------------------------
@@ -161,6 +185,11 @@ img {
 
   .nav-list {
     margin: 5px 0;
+  }
+
+  .profile-picture {
+    max-width: 120px;
+    margin-bottom: 10px;
   }
 }
 

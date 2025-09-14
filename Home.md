@@ -4,6 +4,8 @@ title: Home
 permalink: /home/
 ---
 
+<img class="profile-picture" src="/pp.jpg" alt="Profile Picture of Md. Sawrab">
+
 I’m Md. Sawrab, an undergraduate student in Statistics at Comilla University. I am passionate about exploring data science, machine learning, and artificial intelligence, and I apply statistical methods and techniques to solve real-world problems.
 
 Throughout my academic, I have focused on building a strong foundation in data analysis, predictive modeling, and programming, while seeking opportunities to work on practical projects that integrate statistical theory with modern machine learning approaches.
