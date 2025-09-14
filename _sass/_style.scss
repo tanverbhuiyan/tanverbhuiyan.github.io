@@ -14,7 +14,7 @@ html {
 body {
   margin: 0;
   font-family: "Comfortaa";
-  font-size: clamp(15px, 2vw, 18px); /* Responsive font size */
+  font-size: clamp(14px, 2vw, 18px); /* Responsive font size */
   height: auto;
   min-height: 100%;
   padding-bottom: 50px;
@@ -84,7 +84,7 @@ hr {
 .container {
   max-width: $max-width;
   margin: auto;
-  padding: 0 10px; /* Side padding for small screens */
+  padding: 0 20px; /* left-right padding */
 }
 
 .wrapper {
@@ -112,22 +112,14 @@ img {
 }
 
 .profile-picture {
-  width: 250px !important;      /* Desktop-এ বড় square */
-  height: 250px !important;     /* Desktop-এ square */
-  max-width: 100%;               /* container exceed করবে না */
+  width: 250px !important;
+  height: 250px !important;
+  max-width: 100%;
   display: block;
   margin: 0 auto 20px auto;
-  border-radius: 0 !important;  /* square shape */
-  object-fit: cover;            /* aspect ratio ঠিক রেখে crop */
+  border-radius: 0 !important; /* square */
+  object-fit: cover;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-}
-
-/* Mobile responsiveness */
-@media (max-width: 500px) {
-  .profile-picture {
-    width: 180px !important;    /* mobile-friendly size */
-    height: 180px !important;
-  }
 }
 
 #ins-logo {
@@ -135,7 +127,7 @@ img {
   display: block;
   max-height: 100px;
   text-align: center;
-  border-radius: 0; /* ✅ Square by default */
+  border-radius: 0; /* square by default */
   object-fit: contain;
 }
 
@@ -143,7 +135,7 @@ img {
    Responsive Design
 ------------------------------ */
 
-/* Medium screens */
+/* Medium screens (tablet) */
 @media (max-width: 800px) {
   .container {
     max-width: $med-width;
@@ -166,30 +158,66 @@ img {
   }
 }
 
-/* Mobile screens */
+/* ------------------------------
+   Mobile screens (modern responsive)
+------------------------------ */
 @media (max-width: 500px) {
+
+  /* Navbar */
   .navbar {
-    padding: 40px 0 20px 0;
+    padding: 30px 0 20px 0;
+    text-align: center;
   }
 
   #author-name {
     width: 100%;
-    font-size: 40px;
-    float: none;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 10px;
   }
 
   .navbar-ul {
+    display: flex;
     flex-direction: column;
-    gap: 10px;
+    align-items: center;
+    gap: 12px;
+    padding: 0;
+    margin: 10px 0;
   }
 
-  .nav-list {
-    margin: 5px 0;
+  .navbar-ul li {
+    display: block;
+    width: 100%;
+    text-align: center;
   }
 
+  .navbar-ul a {
+    font-size: 16px;
+    padding: 8px 0;
+  }
+
+  /* Profile Picture */
   .profile-picture {
-    max-width: 120px;
-    margin-bottom: 10px;
+    width: 40vw;     /* responsive width */
+    height: 40vw;    /* square */
+    max-width: 180px;
+    max-height: 180px;
+    margin: 10px auto;
+    border-radius: 0 !important;
+    object-fit: cover;
+  }
+
+  /* Content spacing & justify */
+  .container.content {
+    padding: 0 15px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  /* Ins-logo */
+  #ins-logo {
+    max-height: 80px;
+    margin: 0 auto 15px auto;
   }
 }
 
