@@ -8,13 +8,13 @@ html {
   min-height: 100%;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
+  overflow-x: hidden; /* Prevent horizontal scroll */
 }
 
 body {
   margin: 0;
   font-family: "Comfortaa";
-  font-size: clamp(14px, 2vw, 18px);
+  font-size: clamp(14px, 2vw, 18px); /* Responsive font size */
   height: auto;
   min-height: 100%;
   padding-bottom: 50px;
@@ -32,8 +32,8 @@ a {
 hr {
   border: 0;
   height: 0;
-  border-top: 1px solid rgba(0,0,0,0.1);
-  border-bottom: 1px solid rgba(255,255,255,0.3);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 /* ------------------------------
@@ -84,7 +84,7 @@ hr {
 .container {
   max-width: $max-width;
   margin: auto;
-  padding: 0 20px;
+  padding: 0 20px; /* left-right padding */
 }
 
 .wrapper {
@@ -107,7 +107,7 @@ img {
   height: auto;
   display: block;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 8px; /* Slightly rounded corners globally */
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
@@ -117,7 +117,7 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto 20px auto;
-  border-radius: 0 !important;
+  border-radius: 0 !important; /* square */
   object-fit: cover;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
@@ -127,7 +127,7 @@ img {
   display: block;
   max-height: 100px;
   text-align: center;
-  border-radius: 0;
+  border-radius: 0; /* square by default */
   object-fit: contain;
 }
 
@@ -137,114 +137,67 @@ img {
 
 /* Medium screens (tablet) */
 @media (max-width: 800px) {
-  .container {
-    max-width: $med-width;
-    transition: 0.3s ease all;
-  }
-}
-
-/* Tablet screens */
-@media (max-width: 650px) {
-  .container {
-    max-width: 85%;
-  }
-
   #author-name {
     font-size: 50px;
   }
 
-  .navbar-ul {
-    gap: 15px;
+  .profile-picture {
+    width: 260px !important;
+    height: 260px !important;
   }
 }
 
-/* ------------------------------
-   Mobile screens (horizontal layout)
------------------------------- */
+/* Mobile screens */
 @media (max-width: 500px) {
-
-  /* Navbar wrapper flex: horizontal layout */
   .navbar {
     display: flex;
-    flex-direction: row;       /* horizontal */
-    align-items: center;       /* vertical center */
-    justify-content: space-between;
-    padding: 15px 10px;
-    flex-wrap: wrap;           /* wrap if needed */
-  }
-
-  /* Profile-picture square left */
-  .profile-picture {
-    width: 80px;
-    height: 80px;
-    border-radius: 0;          /* square */
-    object-fit: cover;
-    margin: 0;
-  }
-
-  /* Author info next to picture */
-  .author-info {
-    display: flex;
     flex-direction: column;
-    justify-content: center;
-    margin-left: 10px;
+    align-items: center;
+    padding: 20px 10px;
+    gap: 10px;
+  }
+
+  .profile-picture {
+    width: 180px !important;
+    height: 180px !important;
+    margin-bottom: 5px;
   }
 
   #author-name {
-    font-size: 20px;
+    font-size: 26px;
     margin: 0;
+    white-space: nowrap;
   }
 
   .author-headline {
     font-size: 14px;
-    color: #555;
-    margin: 0;
+    margin: 0 0 10px 0;
+    white-space: nowrap;
   }
 
-  /* Navbar links inline next to author-info */
   .navbar-ul {
     display: flex;
-    flex-direction: row;  /* horizontal links */
-    gap: 8px;
-    margin: 0;
-    padding: 0;
-    list-style: none;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
-  .navbar-ul li {
-    margin: 0;
-  }
-
-  .navbar-ul a {
+  .navbar-ul li a {
     font-size: 14px;
-    padding: 5px;
-    display: block;
-  }
-
-  /* Content spacing */
-  .container.content {
-    padding: 0 15px;
-    text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-  }
-
-  /* Ins-logo adjustments */
-  #ins-logo {
-    max-height: 60px;
-    margin: 0 auto 10px auto;
   }
 }
 
 /* Very small screens */
-@media (max-width: 400px) {
+@media (max-width: 380px) {
   #author-name {
-    font-size: 18px;
+    font-size: 22px;
   }
-  .navbar {
-    padding: 10px 0;
+  .author-headline {
+    font-size: 13px;
   }
 }
 
 @import "typography";
 @import "tables";
+
