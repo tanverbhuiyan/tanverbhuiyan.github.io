@@ -4,62 +4,62 @@ title: Education
 permalink: /education/
 ---
 
-### 1️⃣ Formal Education  
+## 📚 Formal Education
+
+**Bachelor of Science | March 2022 - Current (Expected to graduate in April, 2026)**  
+**Major:** Statistics  
+**University:** Comilla University  
+
+**Relevant Courses to DS/AI:**  
+Linear Algebra, Elementary Probability, Calculus, Probability Distribution, Sampling Distribution, Sampling Technique, Advanced Calculus, Statistical Inference, Statistical Simulation  
+
+**Relevant Courses to Research:**  
+Time Series Analysis, Research Methodology, Epidemiology, Biostatistics, Data Mining  
+
+**Relevant Courses to Programming:**  
+Statistical Data Analysis (I, II, III, IV, V, VI), Programming with C, SPSS, STATA, SAS, Python, R  
 
 ---
 
-- **Bachelor of Science** | **March 2022 – Current** *(Expected Graduation: March 2026)*  
-  **Statistics**  
-  *Comilla University, Cumilla*  
-  - **Relevant Courses to Data Science / AI:** Linear Algebra, Elementary Probability, Calculus, Probability Distribution, Sampling Distribution, Sampling Technique, Advanced Calculus, Statistical Inference, Statistical Simulation  
+**Higher Secondary Certificate | July 2016 - July 2018**  
+**Stream:** Science  
+**College:** Kalikapur Abdul Matin Khasru Govt Degree College  
 
-  - **Relevant Courses to Research:** Time Series Analysis, Research Methodology, Epidemiology, Biostatistics, Data Mining  
-
-  - **Relevant Courses to Programming / Tools:** Statistical Data Analysis (I–VI), Programming with C, SPSS, STATA, SAS, Python, R
-
-- **Higher Secondary Certificate (Science)** | **July 2018 – July 2020**  
-  *Chhengarchor govt. College*
-
-### 2️⃣ Research Training Programs  
+**Secondary School Certificate | January 2011 - March 2016**  
+**Stream:** Science  
+**School:** Fakir Bazar High School and College  
 
 ---
 
-- **Research Methodology Course: Fakibaz Gobeshok**  
+## 🧑‍🎓 Research Oriented Courses
 
-    - Research Foundations: Topic selection, literature review, references & citations  
-    - Design & Preparation: Questionnaire, ChatGPT use, basic stats, data entry  
-    - Analysis & Writing: R analysis, IMRAD writing, paraphrasing, Mendeley  
-    - Publishing: Journal selection & manuscript submission  
+**Fundamentals of Qualitative Research Methods, Yale University | Remote | Aug, 2025**  
+Completed an introductory course covering the principles and applications of qualitative research, including research design, data collection (interviews, focus groups, observations), thematic analysis, and ethical considerations.
 
-
-### 3️⃣ Online Courses & Certifications  
+**Health Research Fundamentals, National Institute of Epidemiology | Remote | April, 2025**  
+Completed a foundational, self-paced course (available on Class Central via NPTEL/SWAYAM) covering essential principles of public health research, including epidemiology, biostatistics, study design, research ethics, protocol and proposal writing, and data management.
 
 ---
 
+## 🧾 Online Courses & Certifications
 
-- **DataCamp**  [View Details](https://github.com/md-sawrab/DataCamp)  
+**Coursera**  
+- Introduction to Data Analytics  
+- SQL: A Practical Introduction for Querying Databases  
+- Power BI Fundamentals  
 
-  - Career Track: Assosicate Data Analyst  
-  - Skill Track: Excel Fundamentals
+**LinkedIn Learning**  
+- Excel: Managing and Analyzing Data  
 
-- **GitHub**  
+**BYLCx**  
+- Excel For Professionals (Part-1)  
+- Excel For Professionals (Part-2)  
 
-  - [GitHub Foundations](https://www.credly.com/badges/2d2de31e-190f-441e-827d-e11426640503/public_url)
+**Dataskool**  
+- Data Science Landscape  
 
-- **Hackerrank**  
+**EDUCBA**  
+- Python 3.5 Training  
 
-  - [HackerRank SQL(Basic)](https://www.hackerrank.com/certificates/iframe/ec79e1b412be)
-
-- **Maven Analytics**  
-
-  - [Microsoft Power BI Desktop](https://certificates.mavenanalytics.io/9a720cae-da2b-42e7-aedf-2aaeeb4eac57#acc.RF2m8ABp)
-  - [MySQL Data Analysis](https://certificates.mavenanalytics.io/70255660-b565-40d0-b42e-fe5008cec263#acc.eMOqsui4)
-
-- **Coursera**  
-
-  - [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/verify/XQ448G6WYSGZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-  - [Introduction to Business Analysis Using Spreadsheets: Basics](https://www.coursera.org/account/accomplishments/verify/5G25GPBXYLYZ)
-
-
-
-
+**Udemy**  
+- Google Data Studio A-Z: Looker Studio for Data Visualization  
