@@ -17,10 +17,14 @@ Interests: Artificial Intelligence in FinTech & Public Health, Academic Research
 
 Open To: Collaborations and research opportunities
 
-Email: tanver.cou@gmail.com
+**Email:** [bhuiyantanver7@gmail.com](mailto:bhuiyantanver7@gmail.com)
 
 ## 📰 News and Updates
 
+- **06 November** – Submitted my first research paper.
+- **04 October** – Organized a 3-day Microsoft Office training program.
+- **24 September** – Started my final semester project journey with my supervisor.
+- **11 September** – Participated in a research writing competition.
 - **Sept 11, 2025**: Participate in a research-related content writing competition on the topic of *“Why research?”*  
 - **Aug 06, 2025**: Wrapped up the course *“How Students Can Use AI to Improve Their Education”*  
 - **July 04, 2025**: Starting an exciting session on *“How Students Can Use AI to Improve Their Education”*  
@@ -32,19 +36,20 @@ Email: tanver.cou@gmail.com
 
 ## 👩‍💻 Technical Skills
 
-- **Programming Languages:** Python (Advanced), R, SQL  
-- **DS & ML Tools (Python):** NumPy, Pandas, Matplotlib 
+- **Programming Languages:** Python, R, SQL, C  
+- **Statistical Tools:** Stata, SPSS, SAS, Eviews, Minitab  
+- **DS & ML Tools (Python):** NumPy, Pandas, Matplotlib, Seaborn  
 - **Data Science Techniques:** EDA, Hypothesis Testing, Sampling, Statistical Inference, Data-driven Decision Making  
-- **Data Analysis & Visualization:** MS Excel, Power BI, Tableau, SAS  
-- **Other Tools & Skills:** GitHub, VS Code, Azure, Colab, Kaggle
+- **Data Analysis & Visualization:** MS Excel, Power BI, Tableau, Looker Studio, Google BigQuery  
+- **Other Tools & Skills:** GitHub, VS Code, Azure, Colab, Kaggle, Canva, Notion
 
 
 ## 📫 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](#)  
+- Email: bhuiyantanver7@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/tanverbhuiyan](#)  
 - GitHub: [github.com/tanverbhuiyan](#)  
-- Kaggle: [kaggle.com/yourprofile](#)
+
 
 
 
