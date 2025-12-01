@@ -34,3 +34,12 @@ I am passionate about developing **data-driven and AI-powered solutions** that a
 - **Escalating Hypertension, Diabetes and Their Co-Occurrence in Bangladesh: A Five-Year Trend Analysis from National Surveys**  
   *Status: Under Review*
 
+
+### Work in Progress 
+These are ongoing research projects I am currently contributing to:
+
+1. **Association of Overweight and Obesity with Hypertension, Diabetes, and Comorbidity among Adults in Bangladesh:Evidence from the Bangladesh Demographic and Health Survey 2022.**  
+2. **Healthy Lifestyle Knowledge and Age at Diabetes Diagnosis:Insights from a primary health care–based survey in Bangladesh.**  
+3. **Predictive Modeling of Childhood Pneumonia in Bangladesh:A machine learning–enhanced analysis using BDHS 2017 and 2022 to explore trends and determinants.**     
+4. **Prevalence and Determinants of Underweight, Overweight, and Obesity among Bangladeshi Adults:An analytical study using BDHS 2022 data.**  
+   

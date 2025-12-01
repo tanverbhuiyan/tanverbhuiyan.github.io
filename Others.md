@@ -7,19 +7,19 @@ permalink: /others/
 ### ✍️ Blog / Writing  
 ---
 
-1️⃣ **Statistics for Data Science — Basic Statistics**  
-🔗 [Read Here](https://medium.com/@md-sawrab/statistics-for-data-science-basic-statistics-9602ed901423)  
+1️⃣ **5 Smartest Data Science Career To Unleash Your Future**  
+🔗 [Read Here](https://medium.com/@tanverbhuiyan/5-smartest-data-science-career-to-unleash-your-future-680744afbbed)  
 
-2️⃣ **Statistics for Data Science — Measure of Central Tendency**  
-🔗 [Read Here](https://medium.com/@md-sawrab/statistics-for-data-science-measure-of-central-tendency-0e0400863f72)  
+2️⃣ **Top 12 Data Science Interview Questions You Must Know to Ace Your Job Interview**  
+🔗 [Read Here](https://medium.com/@tanverbhuiyan/top-12-data-science-interview-questions-you-must-know-to-ace-your-job-interview-79ad98d60ef9)  
 
-3️⃣ **Statistics for Data Science — Measures of DISPERSION**  
-🔗 [Read Here](https://medium.com/@md-sawrab/statistics-for-data-science-measures-of-dispersion-f1067cb7c3c3)  
+3️⃣ **The Easiest Data Science Roadmap in 2024**  
+🔗 [Read Here](https://medium.com/@tanverbhuiyan/the-easiest-data-science-roadmap-in-2023-180035eae8fe)  
 
-4️⃣ **Why Statistics Still Matters in Data Science?**  
-🔗 [Read Here](https://medium.com/@md-sawrab/why-statistics-still-matters-in-data-science-2ed8228f1806)  
+4️⃣ **Data Science and 2024 Perspective**  
+🔗 [Read Here](https://medium.com/@tanverbhuiyan/e-in-2024data-science-and-2024-perspective-f795e46f4967)  
  
-*Feel free to check out my [Medium profile](https://medium.com/@md-sawrabs) for all posts.* 
+*Feel free to check out my [Medium profile](https://medium.com/@tanverbhuiyan) for all posts.* 
 
 ### 🏆 Awards & Achievements  
 ---
@@ -29,15 +29,6 @@ permalink: /others/
 
 On the occasion of National Statistics Day, our team secured the **Champion position** in a poster presentation competition.  
 The poster highlighted the rapid advancements, key milestones, and transformative impact of **Data Science** and **Artificial Intelligence** across various sectors.
-
-
-### 🤝 Community & Leadership  
-
-🌟 **President** – Comilla University Research Society  
-🌟 **Vice President** – Comilla University IT Society  
-
-📌 **Organizer** – CU IT Fest Datathon 2024  
-📌 **Mentor** – Undergraduate Research Teams, Statistics Department, Comilla University  
 
 
 ## 🗣️ Talks and Training Workshops Taken  
