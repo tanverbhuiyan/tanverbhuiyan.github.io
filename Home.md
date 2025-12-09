@@ -4,7 +4,9 @@ title: Home
 permalink: /home/
 ---
 
-<img class="profile-picture" src="/Profile.jpg" alt="Profile Picture of tanver bhuiyan">
+<img class="profile-picture" src="./Tanver .jpg" alt="Profile Picture of Tanver Bhuiyan">
+
+
 
 I am a passionate academic researcher currently working as a **Research Assistant at the Intelligence Academy**. My main interests lie at the intersection of **artificial intelligence, fintech, and public health**, where I apply AI techniques to solve real-world problems. I am actively pursuing a **Master’s degree in Data Science** or a related field to deepen my expertise and advance my research.
 
@@ -16,7 +18,7 @@ I collaborate with lecturers and researchers on various AI and data science proj
 
 Together, we explore topics in **fintech** and **health informatics**. I currently have **four research papers in progress**, which I plan to submit for publication soon.And **one paper is in under review**
 
-I have contributed to **50+ projects**, mostly on a freelance basis. I have helped 30+ friends and seniors with their thesis and project work—especially in data analysis—while also guiding them on choosing suitable research topics and structuring their complete research plan.
+I have contributed to **50+ projects**, mostly on a freelance basis. **I have helped 30+ friends and seniors with their thesis and project work**—especially in data analysis—while also guiding them on choosing suitable research topics and structuring their complete research plan.
  
 My team, **Cohort-07**, also won a **data science competition at Comilla University**.
 
@@ -38,7 +40,9 @@ Open To: Collaborations and research opportunities
  
 
 
-# 📰 News and Updates  
+# 📰 News and Updates 
+- **Dec 05, 2025:** Submit Abstract in a conference held in Comilla University  
+- **Dec 05, 2025:** Submit two Abstract in a conference - held in Comilla University 
 - **Nov 24, 2025:** Assisted in a research project by supporting data analysis for a friend's thesis paper. 
 - **06 November:** – Submitted my first research paper.
 - **04 October:** – Organized a 3-day Microsoft Office training program.
