@@ -43,3 +43,9 @@ These are ongoing research projects I am currently contributing to:
 3. **Predictive Modeling of Childhood Pneumonia in Bangladesh:A machine learning–enhanced analysis using BDHS 2017 and 2022 to explore trends and determinants.**     
 4. **Prevalence and Determinants of Underweight, Overweight, and Obesity among Bangladeshi Adults:An analytical study using BDHS 2022 data.**  
    
+
+
+### Conference Acceptances
+✔️ 3 Abstracts Accepted — ICMRS 2025
+📄 1 Full Paper Submitted — ICMRS 2025
+📝 4 Abstracts Submitted — Research Society, Begum Rokeya University
