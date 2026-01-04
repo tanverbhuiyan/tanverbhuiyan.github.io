@@ -36,6 +36,9 @@ Open To: Collaborations and research opportunities
 
 
 # 📰 News and Updates  
+- **Dec 25, 2025:** Full paper submitted to the International Conference on Multidisciplinary Research Studies (ICMRS)
+- **Dec 21, 2025:** Submitted four abstracts to the Research Society, Begum Rokeya University
+- **Dec 20, 2025:** Three abstracts accepted at the International Conference on Multidisciplinary Research Studies (ICMRS) 
 - **Dec 05, 2025:** Submit Two Abstract in a Conference held in Comilla University 
 - **Nov 24, 2025:** Assisted in a research project by supporting data analysis for a friend's thesis paper. 
 - **06 November:** – Submitted my first research paper.
