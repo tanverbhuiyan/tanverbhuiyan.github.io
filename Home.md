@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-<img class="profile-picture" src="Tanver.jpg" alt="Profile Picture of Tanver Bhuiyan">
+<img class="profile-picture" src="/Tanver.jpg" alt="Profile Picture of Tanver Bhuiyan">
 
 
 I am a passionate academic researcher currently working as a **Research Assistant at the Intelligence Academy**. My main interests lie at the intersection of **artificial intelligence, fintech, and public health**, where I apply AI techniques to solve real-world problems. I am actively pursuing a **Master’s degree in Data Science** or a related field to deepen my expertise and advance my research.
