@@ -36,6 +36,8 @@ Open To: Collaborations and research opportunities
 
 
 # 📰 News and Updates  
+- **Mar 04, 2026:** One abstract accepted at the National Seminar on Climate & Disaster Resilience (NSCDR 2026)
+- **Feb 26, 2026:** Two abstracts accepted at the 8th International Conference on Sustainable Development (ICSD 2026)
 - **Dec 25, 2025:** Full paper submitted to the International Conference on Multidisciplinary Research Studies (ICMRS)
 - **Dec 21, 2025:** Submitted four abstracts to the Research Society, Begum Rokeya University
 - **Dec 20, 2025:** Three abstracts accepted at the International Conference on Multidisciplinary Research Studies (ICMRS) 
