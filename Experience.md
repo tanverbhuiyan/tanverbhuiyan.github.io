@@ -8,8 +8,11 @@ permalink: /experience/
 
 **Research Assistant (RA) – Intelligence Academy**  
 *Jun 2025 – Present*  
-- The Robo-Advisor Revolution: An Interdisciplinary Behavioral and Economic Analysis of AI’s Influence on Millennial and Gen Z Investment Strategies  
-- Oncology: Study and treatment of cancer  
+- Data Collection: Conducted primary and secondary research via structured surveys and field interviews.
+- Literature Review: Synthesized complex academic literature and journals to back research objectives.
+- Data Analytics: Cleaned datasets and performed quantitative modeling using Excel, SPSS, and Stata.
+- Manuscript Drafting: Collaborated on research proposals, progress reports, and publication-ready manuscripts.
+- Data Visualization: Developed interactive charts, graphs, and presentations for key stakeholders. 
 
 ---
 
