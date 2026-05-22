@@ -6,7 +6,7 @@ permalink: /education/
 
 ## 📚 Formal Education
 
-**Bachelor of Science | March 2022 - Current (Expected to graduate in April, 2026)**  
+**Bachelor of Science | March 2022 - May 2026**  
 **Major:** Statistics  
 **University:** Comilla University  
 
