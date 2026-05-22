@@ -7,6 +7,12 @@ permalink: /research/
 ---
 
 ### Under Review
+
+### Under Review
+
+- **Escalating Hypertension, Diabetes and Their Co-Occurrence in Bangladesh: A Five-Year Trend Analysis from National Surveys** *Status: Under Review*<br><br>
+- **Trends and Socio-Demographic Predictors of Decision-Making Autonomy among Married Women in Bangladesh: A Pooled Cross-Sectional Study** *Status: Under Review*<br><br>
+- **Prevalence and Determinants of Underweight, Overweight, and Obesity among Bangladeshi Adults: An analytical study using BDHS 2022 data** *Status: Under Review*
 - **Escalating Hypertension, Diabetes and Their Co-Occurrence in Bangladesh: A Five-Year Trend Analysis from National Surveys**  
   *Status: Under Review*
 **Trends and Socio-Demographic Predictors of Decision-Making Autonomy among Married Women in Bangladesh: A Pooled Cross-Sectional Study**  
