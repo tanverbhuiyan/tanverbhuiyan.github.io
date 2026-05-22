@@ -11,6 +11,7 @@ I am a passionate academic researcher currently working as a **Research Assistan
 
 I collaborate with lecturers and researchers on various AI and data science projects, working closely with:
 
+- **Priyanka Paul** – Assistant Professor, Comilla University
 - **Md. Safayet Hossain** – Lecturer, Comilla University  
 - **Mejbah Ahmed** – CEO & Lead Researcher, Global Intelligence Researcher Academy  
 - **Md. Mahfujur Rahman** – Independent Researcher  
@@ -40,6 +41,9 @@ Open To: Collaborations and research opportunities
 
 
 # 📰 News and Updates 
+- **May 16, 2026:** Full paper submitted to an international journal
+- **Apr 21, 2026:** Full paper submitted to an international journal
+- **Apr 12, 2026:** One research paper entered the peer review phase
 - **Mar 04, 2026:** One abstract accepted at the National Seminar on Climate & Disaster Resilience (NSCDR 2026)
 - **Feb 26, 2026:** Two abstracts accepted at the 8th International Conference on Sustainable Development (ICSD 2026)
 - **Dec 25, 2025:** Full paper submitted to the International Conference on Multidisciplinary Research Studies (ICMRS)
