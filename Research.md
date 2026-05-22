@@ -8,17 +8,11 @@ permalink: /research/
 
 ### Under Review
 
-### Under Review
 
 - **Escalating Hypertension, Diabetes and Their Co-Occurrence in Bangladesh: A Five-Year Trend Analysis from National Surveys** *Status: Under Review*<br><br>
 - **Trends and Socio-Demographic Predictors of Decision-Making Autonomy among Married Women in Bangladesh: A Pooled Cross-Sectional Study** *Status: Under Review*<br><br>
 - **Prevalence and Determinants of Underweight, Overweight, and Obesity among Bangladeshi Adults: An analytical study using BDHS 2022 data** *Status: Under Review*
-- **Escalating Hypertension, Diabetes and Their Co-Occurrence in Bangladesh: A Five-Year Trend Analysis from National Surveys**  
-  *Status: Under Review*
-**Trends and Socio-Demographic Predictors of Decision-Making Autonomy among Married Women in Bangladesh: A Pooled Cross-Sectional Study**  
-  *Status: Under Review*
-**Prevalence and Determinants of Underweight, Overweight, and Obesity among Bangladeshi Adults:An analytical study using BDHS 2022 data**  
-  *Status: Under Review*
+
 
 ### Work in Progress 
 These are ongoing research projects I am currently contributing to:
@@ -46,6 +40,8 @@ I aim to apply statistical and machine learning methods to **improve healthcare 
 
 
 ### Conference Acceptances
-✔️ 3 Abstracts Accepted — ICMRS 2025
-📄 1 Full Paper Submitted — ICMRS 2025
-📝 4 Abstracts Submitted — Research Society, Begum Rokeya University
+- **Mar 04, 2026:** One abstract accepted at the National Seminar on Climate & Disaster Resilience (NSCDR 2026)
+- **Feb 26, 2026:** Two abstracts accepted at the 8th International Conference on Sustainable Development (ICSD 2026)
+- **Dec 25, 2025:** One full paper submitted to the International Conference on Multidisciplinary Research Studies (ICMRS 2025)
+- **Dec 21, 2025:** Submitted four abstracts to the Research Society, Begum Rokeya University
+- **Late 2025:** Three abstracts accepted at the International Conference on Multidisciplinary Research Studies (ICMRS 2025)
